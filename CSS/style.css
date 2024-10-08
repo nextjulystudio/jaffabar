@@ -1,1 +1,29 @@
+@import url("https://use.typekit.net/fss0kdc.css");
 
+
+.title{
+  font-family: "Tenon", sans-serif !important;
+}
+
+
+h4 {
+    font-family: "Tenon", sans-serif !important;
+}
+
+
+.description.text{
+ font-family: "futura-pt", sans-serif !important;
+ text-transform: lowercase !important;
+ font-style: italic !important;
+  
+}
+
+.title.text{
+ font-family: "futura-pt", sans-serif !important;
+ text-transform: lowercase !important;
+ font-style: italic !important;
+}
+
+h2{
+  font-family: "Tenon", sans-serif !important;
+}
