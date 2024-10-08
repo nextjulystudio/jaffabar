@@ -18,11 +18,14 @@
 
 .title{
   font-family: "brush-script-std", sans-serif !important;
+  text-transform: capitalize !important; 
+  
 }
 
 
 h4 {
     font-family: "BebasBeue", sans-serif !important;
+    text-transform: uppercase !important;
 }
 
 
