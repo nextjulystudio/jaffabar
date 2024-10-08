@@ -1,21 +1,34 @@
 @import url("https://use.typekit.net/fss0kdc.css");
 
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+
+@font-face {
+  font-family: "afcarpla";
+  src: url("./afcarpla.otf");
+}
+
+@font-face {
+  font-family: "BebasNeue";
+  src: url("./BebasNeue.otf");
+}
+
+
+
 .title{
-  font-family: "Tenon", sans-serif !important;
+  font-family: "Brush Script Std", sans-serif !important;
 }
 
 
 h4 {
-    font-family: "Tenon", sans-serif !important;
+    font-family: "BebasBeue", sans-serif !important;
 }
 
 
 .description.text{
- font-family: "futura-pt", sans-serif !important;
+ font-family: "Poppins", sans-serif !important;
  text-transform: lowercase !important;
- font-style: italic !important;
-  
 }
 
 .title.text{
@@ -25,5 +38,5 @@ h4 {
 }
 
 h2{
-  font-family: "Tenon", sans-serif !important;
+  font-family: "BebasBeue", sans-serif !important;
 }
